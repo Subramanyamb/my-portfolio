@@ -36,7 +36,7 @@ const Testimonials = () => {
       link: '',
       name: 'At&t, Dallas, TX',
       role: 'Web Designer',
-      timeline: 'Mar 2021 - Nov 2021',
+      timeline: 'Jan 2021 - Nov 2021',
       test: 'I was involved in designing mock-ups for mobile web Application (iOS, Android) mostly using Sketch, Sketch and Adobe Creative Suite. I developed web presentation layer using HTML, CSS, JavaScript, ReactJS according to internal standards and guidelines. I used Axure to create wireframes for mobile-based applications before the development process.',
       link: "/my-portfolio/at-t",
     },
